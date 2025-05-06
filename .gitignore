@@ -1,0 +1,13 @@
+.env
+__pycache__/
+lib/
+.DS_Store
+.gradio/
+.mypy_cache/
+.venv/
+venv/
+*.pyc
+*.pyo
+.env.local
+credentials.json
+token.json

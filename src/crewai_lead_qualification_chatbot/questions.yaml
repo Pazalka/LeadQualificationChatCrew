@@ -1,0 +1,50 @@
+questions:
+  q1:
+    id: "full_name"
+    question: "What is your full name?"
+    next: "q2"
+
+  q2:
+    id: "email"
+    question: "What is the best email address to reach you?"
+    next: "q3"
+
+  q3:
+    id: "phone"
+    question: "What is your preferred phone number?"
+    next: "q4"
+
+  q4:
+    id: "property_type"
+    question: "What type of property are you interested in? (Single-family home, Condo, Multi-family, Commercial)"
+    next: "q5"
+
+  q5:
+    id: "price_range"
+    question: "What is your target price range?"
+    next: "q6"
+
+  q6:
+    id: "location"
+    question: "What is your desired location/area?"
+    next: "q7"
+
+  q7:
+    id: "timeline"
+    question: "What is your timeline for making a decision? (Immediate, 3-6 months, 6+ months)"
+    next: "q8"
+
+  q8:
+    id: "financing"
+    question: "Are you pre-approved for financing, or will you need assistance with this?"
+    next: "q9"
+
+  q9:
+    id: "other_agents"
+    question: "Are you working with any other real estate agents or brokers?"
+    next: "q10"
+
+  q10:
+    id: "search_reason"
+    question: "What is the primary reason for your property search? (Investment, Primary Residence, Relocation)"
+    next: "end"

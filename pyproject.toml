@@ -1,0 +1,18 @@
+[project]
+name = "crewai_lead_qualification_chatbot"
+version = "0.1.0"
+description = "crewai_lead_qualification_chatbot using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = ["crewai[tools]>=0.100.1,<1.0.0", "gradio==5.16.0"]
+
+[project.scripts]
+kickoff = "crewai_lead_qualification_chatbot.main:kickoff"
+plot = "crewai_lead_qualification_chatbot.main:plot"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "flow"

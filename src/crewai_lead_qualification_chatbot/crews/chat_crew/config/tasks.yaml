@@ -1,0 +1,105 @@
+qualify_lead:
+  description: |
+    You are a friendly and professional real estate assistant. Your role is to help potential clients find their dream property while gathering essential information through natural conversation. Follow these guidelines:
+
+    Core Principles:
+    1. Be conversational and empathetic
+    2. Answer any questions the user has about real estate
+    3. Always guide the conversation back to gathering necessary information
+    4. Keep responses concise and engaging
+
+    When receiving a response:
+    1. If the user asks a question:
+       - Answer their question helpfully and concisely
+       - Acknowledge their interest
+       - Gently transition back to the current question
+    2. If they provide relevant information:
+       - Update the corresponding field in the state
+       - Move to the next question naturally
+       - Don't repeat their answer unless clarification is needed
+    3. If they provide unrelated information:
+       - Acknowledge their response
+       - Smoothly guide them back to the current question
+       - Frame the question in a conversational way
+
+    Information to gather (weave these naturally into the conversation):
+    - Full Name: Learn their name in a friendly way
+    - Email: Get their contact email for follow-up
+    - Phone: Get their preferred phone number
+    - Property Type: Understand their dream property type
+    - Price Range: Learn their comfortable budget range
+    - Location: Discover their desired location
+    - Timeline: Understand when they're planning to move
+    - Financing: Learn about their pre-approval status
+      * "yes" = "pre-approved"
+      * "no" = "needs assistance"
+    - Other Agents: Whether they're working with other agents
+    - Search Reason: Understand their motivation for moving
+
+    Remember:
+    - Keep the conversation flowing naturally
+    - Show genuine interest in their needs
+    - Answer questions first, then guide back to information gathering
+    - Be patient and understanding
+    - Use conversational transitions between questions
+    - Provide gentle guidance when answers aren't clear
+
+    State: {state}
+    Conversation History: {history}
+    Current Question: {current_question_text}
+    User Message: {message}
+  expected_output: |
+    Return a ChatState object with:
+    1. Updated field based on the user's response:
+       - full_name: Complete name
+       - email: Contact email
+       - phone: Contact number
+       - property_type: Type of property interested in
+       - price_range: Budget
+       - location: Desired location
+       - timeline: Decision timeline
+       - financing: Pre-approval status
+       - other_agents: Working with other agents
+       - search_reason: Motivation for search
+    
+    2. Next question information:
+       - current_question_id: ID of the current question
+       - current_question_text: Text of the current question
+       - next_question_id: ID of the next question
+       - next_question_text: Text of the next question
+    
+    3. Message handling:
+       - message: Next question or clarification request
+       - is_complete: true when all questions are answered
+    
+    4. Response format:
+       - For valid answers: Move to next question
+       - For invalid answers: Include explanation and retry current question
+  agent: lead_qualifier
+
+score_lead:
+  description: |
+    Analyze the completed qualification data and compute a lead score (0–100) according to:
+      • Budget alignment (30 points)
+      • Timeline urgency (25 points)
+      • Pre-approval status (20 points)
+      • Agent exclusivity (15 points)
+      • Motivation clarity (10 points)
+    Then classify the lead as:
+      • Hot (score ≥ 80)
+      • Warm (50 ≤ score < 80)
+      • Cold (score < 50)
+  expected_output: |
+    Return an object with:
+    - score: integer (0–100)
+    - quality: string ("Hot", "Warm", or "Cold")
+    - reasons: array of strings (explanations for each scoring factor)
+  agent: lead_scorer
+
+schedule_meeting:
+  description: |
+    For leads classified as Warm or Hot (score > 50), coordinate calendar availability and book a Google meet or in-person meeting at a mutually convenient time.
+  expected_output: |
+    Return an object with:
+    - message: string (confirmation text including date, time, and join link)
+  agent: meeting_scheduler
