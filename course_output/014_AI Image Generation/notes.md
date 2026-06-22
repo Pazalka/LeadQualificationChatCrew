@@ -1,0 +1,99 @@
+# AI Image Generation
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157412658/posts/2186925210
+
+---
+
+## Full Video Transcript
+
+What's going on creators? Anthony here, and in this module, you're gonna learn how to create amazing logos and graphics using AI on Fall AI. My favorite side for accessing tons of AI models without needing to pay a subscription fee. Let's dive in. So for logo creation, the best model available on Fall AI is Idiogram V2. Idiogram V2 is an advanced text to image model designed for graphics, typography, and branding. It stands out because it can generate clean professional looking logos with accurate text integration. This is something that AI has struggled with for a very long time. Most of the other popular AI image generators you see online, if you ask it to include something with text, it'll look like this or this, which is just not high quality. Idiogram does the opposite. It nails text every time. On top of that, it's fast, highly customizable, and super affordable. At the time of recording this video, each logo generation costs just a few cents, making it an excellent tool, whether you're experimenting with ideas or generating a final logo design. To access Idiogram V2, follow these steps. Go to Fall AI and log into your account. Click on the Explore page. In the search bar, just type Idiogram V2 and select the latest version. I'll also make sure to have the links in the description below. From here, you'll see the prompt input field on the left where you can type a description of your logo idea. Now, if you already have a specific design in mind, simply type a detailed prompt describing your ideal logo. For example, let's say you're designing a logo for a freelance video production company called Anthony Galloproductions. You could use a prompt like this. A modern minimalist logo for Anthony Galloproductions, a high-end video production company. The design should be sleek and cinematic, featuring a stylized camera lens or film reel as an icon. The typography should be bold and elegant using a clean sand serif font. The color scheme should include deep blues, blacks, and metallic silver. The logo should be versatile for dark and light backgrounds with a professional and creative feel. Once you have your prompt, simply hit run and within seconds, you'll get multiple logo variations to choose from. And I mean, if that doesn't impress you, I don't know what will. It is insane how much time this saves. That easily would have taken me half a day if not multiple days to create on my own using Photoshop. Not to mention the cost savings, considering I only had to spend eight cents to create it. Now, what if you are stuck and you don't have a design in mind? The good news is AI can help you with this too. You can use Chatchy PT to design a prompt for you to start with where you can then make modifications as you see fit. Just type something like this into Chatchy PT. Generate a detailed, audiogram V2 prompt for a sleek and modern logo for a tech startup. Now, Chatch is gonna give you a really high quality prompt that has a lot of details that you can then tweak as you see fit. You could adjust the colors, the icons, the typography and style until it matches your vision. This is an easy way to brainstorm ideas and then refine it with AI. The reason you want a specific prompt is because it gives you more control over the output. In other words, if you don't outline what your brand color is, then AI is just gonna guess or do whatever it thinks will look good, which isn't necessarily a bad thing, but more on that in a minute. Once you generate a logo, you might want to make small refinements. Now, instead of starting from scratch, you can actually rerun the same prompt with subtle changes. For example, if you like the icon, but want a different font, modify only the typography section of the original prompt. If the colors aren't quite right, just tweak that part by itself. By making small adjustments, one element at a time, you can quickly dial in the perfect logo design without losing the elements that you already like. And again, the more detailed your prompt is, the more control you have over the output, and you can run it over and over again while getting that same result. Or at least very close to it. If you have a vague prompt and you try to make changes, because there's still a lot left open to interpretation, AI won't do a good job of recreating the same thing over and over again. This brings us to our next topic, though. So let's say you don't have a specific idea in mind, and you just want to see some options. You want to play around and get inspired. Sometimes it's actually better to have a broad prompt, give only the essential elements and then see what AI will create for you, and then you can go from there. For example, here I just used a very simple prompt. Create a logo for my dog walking company. Make it playful and incorporate imagery from dogs. And boom, look at that. I mean, it really never ceases to amaze me. Now, one challenge here is that we can't take that previous editing approach we just talked about since the prompt was broad. We don't have specific details on color or typography that we can easily change with the original prompt. Well, guess what? We can solve this problem with AI as well. I call it reverse engineer prompting. We talked about this in the video on how to become better at prompting, but I'll explain it again. All you need to do is take that output logo from the broad prompt, upload it to chatGPT and ask chat to reverse engineer the logo design and create an idiogram prompt that would generate something very close to it. Now, it's gonna be impossible to get the exact same output with this template prompt now provided by chat, but it's gonna give you a very, very close rendition of the original, but now you have the detailed prompt that you can actually make changes to. So if you wanted to change the icon of the dog, right? You could actually modify that part of the prompt because it's now specific. Now, if you think idiogram only applies to logos, think again, you can create memes, you can create graphics for your site, profile icons for social media, and so much more. Just look at this example here. I started with a very simple prompt. I need a channel banner for my YouTube channel. The channel name is the Content Creator Podcast. Can you create something that is clean and professional for me? Ideally, incorporate some sort of play button or camera icon in the design. Just like that, we've got a professional looking graphic that we can use on our channel. I imagine your brain is just spinning with all the different incredible ideas that you could use with idiogram V2. So definitely go check it out, have a ton of fun with it. I spent like hours and hours on it when I first discovered it, but other than that, that does it for this training, and I will see you in the next one. Here.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+AI Image Generation
+/
+Ideogram: Create Logos & Graphics
+ChatGPT: AI Image Ads
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+AI Image Generation
+8
+            
+              Lessons
+1
+ChatGPT Image Generation
+2
+Nano Banana Image Generation
+3
+Grok Image Generation
+4
+Photoshop AI Tools
+Ideogram: Create Logos & Graphics
+6
+ChatGPT: AI Image Ads
+7
+ChatGPT: Ai Website Graphics
+8
+How to upscale your images with AI
+Next Module
+Back
+Lesson 5 of 8
+Next
+Mark As Complete
+Great Job! Keep Going!
+ChatGPT: AI Image Ads
+Next Lesson
+Ideogram: Create Logos & Graphics
+AI Image Generation
+UPDATE: Ideogram v3 was just released and it's great!
+CLICK HERE
+to access it.
+It works exactly the same, just slightly improved compared to v2.
+Link to ideogram v2 on Fal.ai:
+CLICK HERE
+Comments
+162
+Post Comment
+Ivor David
+June 11, 2026  8:38am
+Hi Anthony, great video as usual.
+Is there a similar Ai tool that allows you to edit the results. Like you would in a canva type application?
+I have been asked to make a flyer. I have text and images but would like Ai to come up with a few customisable draft ideas. Then I would edit them without prompts.
+REPLY
+Jeff Mejia
+June 10, 2026  6:46am
+I noticed some of the logos were animated as is ContentCreators.  How is animation imputed?
+REPLY
+Robert Sudduth
+June  6, 2026  4:11pm
+Thank you for introducing me to Ideogram...wow. Let the fun begin!
+REPLY
+Ramona Rich
+May 29, 2026  1:12am
+Do you need to buy credits before you can do any prompts?
+REPLY
+Estefany Melo
+May 24, 2026 12:16am
+Great information!
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

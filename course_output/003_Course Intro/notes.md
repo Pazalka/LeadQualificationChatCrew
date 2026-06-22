@@ -1,0 +1,81 @@
+# Course Intro
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157412656/posts/2186925068
+
+---
+
+## Full Video Transcript
+
+Every single day artificial intelligence is updating and there are new tools being released to the market. In this quick but very important video, I want to let you know how I'm going to be handling this in regard to the content within the course. By doing this, you and I will be on the same exact page and you'll also know exactly how to get the most up-to-date content. Generally speaking, when a new tool is introduced or there has been an update, I categorize it into one of two buckets. The first bucket is a performance update. With a performance update, the way that you use the tool to get the output hasn't changed at all. It's just better at producing the output. An example of this would be like 5G cellular service on a phone. You do not have to use your phone any differently when you're on 5G service, you're just going to get a better result because it's stronger or whatever else happens with 5G. When it comes to these performance updates, I'm going to let you know of them in the written description beneath the modules. So say for example, in the module we're using version 1.5, but then a month later version 1.6 comes out. The way you use the tool hasn't changed, but there is a new name for it. So I will denote that in the description beneath the video and let you know of any other small changes that you just should be aware of. So long story short, after watching a video, always just quickly check that description for any relevant information you might need to know. So that's the first type of update, a performance update. The second type is a process update. This is very different. Okay, this is when a completely new process is required. Maybe a new tool came out or they just vastly updated the AI model so that you just have to take different actions. Okay, a major upgrade like this to the process would render the original video that's included in this course, obsolete because it's teaching an outdated method. Anytime this happens, I'm committed to recreating that video so you all have the best information. Just keep in mind, it does take a little while to script the video, shoot the video, have our editors edit it and then upload it to the course. So they'll always be a slight time delay, but we will do our best to stay as on top of that information as possible. Realistically, you'll never even notice this, okay, because the up-to-date content will just replace the older content and you'll never know. But that does it. I know there wasn't much training content in this video. I just think it's a really important topic that I wanted to cover with all of you as you're going throughout this course, because this is such a fast-changing landscape. It's super exciting, but it can be overwhelming for everyone. And I just want to be your guide throughout the process and make amazing content that you all can learn from. So if you ever have any feedback or questions, you can always email us at support at contentcreditor.com. Other than that, dive into this content, supercharge your workflow with AI, and I'll see you in the next video.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+Course Intro
+/
+Ai Updates (MUST WATCH)
+How AI Will Change Your Life
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+Course Intro
+3
+            
+              Lessons
+1
+Welcome! Course Overview
+2
+Join the Community
+Ai Updates (MUST WATCH)
+Next Module
+Back
+Lesson 3 of 3
+Next
+Complete
+Great Job! Keep Going!
+How AI Will Change Your Life
+Next Lesson
+Ai Updates (MUST WATCH)
+Course Intro
+Comments
+853
+Post Comment
+Dick Foster
+June 21, 2026  5:00pm
+when will you add nano banana 2 version to your promptedit.com site?
+REPLY
+Carl Sarfi
+June 17, 2026 11:58pm
+Excellent Anthony!
+REPLY
+Midgette Jerome
+June 16, 2026 12:49pm
+Good explanation for the diff's between updates.
+REPLY
+Bert Nicdao
+June 13, 2026 12:51am
+I am new here, trying to learn eh.
+REPLY
+Shane Placke
+June 12, 2026  3:46pm
+Good to know and thanks for all your work!
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

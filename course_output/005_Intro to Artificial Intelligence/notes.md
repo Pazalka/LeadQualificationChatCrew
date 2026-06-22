@@ -1,0 +1,99 @@
+# Intro to Artificial Intelligence
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157412657/posts/2186653207
+
+---
+
+## Full Video Transcript
+
+If you've ever wished you had an assistant to help you brainstorm ideas, research concepts, write scripts, or even improve your social media posts, well that's exactly what chat chat GPT can do for you. This AI tool is like having a personal content assistant that works 24-7 ready to help you with whatever you need. But to get the most out of it, you need to know how to use it effectively. So in this video, I'll walk you through the basics of chat GPT, how it works, and how you can start using it today to speed up your content curation workflow. This will serve as your crash course on all things chat GPT, whereas in future modules, we'll go in-depth with step-by-step tutorials on how to use it to accomplish specific tasks in your content curation workflow. Now if you feel you already have an in-depth understanding on the basics of chat GPT and how to use it, feel free to skip this module and just dive into those specific trainings. But while watching those videos, if you start seeing things that you're unfamiliar with or you're just getting confused, I would recommend coming back and just going through the course chronologically so you don't miss out on any of these foundational overviews. So what exactly is chat GPT? At its core, chat GPT is an advanced AI chatbot created by OpenAI. It's designed to understand and generate human-like text, meaning you can ask it questions, you can give it tasks or even help you refine work that you've already done, and it will respond in a way that feels natural. Think of it like a supercharged search engine, but instead of just giving you links to websites, it provides direct answers, writes content for you, and even helps you again refine the work that you've already done. It's basically been trained on the entire internet, which means it can reference trillions of data points within milliseconds and former response to the prompt that you typed in the chat window. Now think about that again. This tool knows what content performs better on YouTube and is accessed to practically every article that's ever been written on social media growth. It knows which types of free lead magnets are best to collect email leads. It knows what posting times are best for online fitness content creators. It's honestly overwhelming thinking about the sheer potential of this tool. But the key is to properly extract the information there is skill required on your part. And the secret here to getting the most out of chat TPP comes down to prompting, which is the term used for what you actually write into the chat window. The better you can become at prompting chat TPP, the better it will be at providing you with the answers and content that you're actually looking for. So for a really basic example, you could prompt chat by saying, plan a five day vacation for me. And chat will do its best to provide you with an itinerary based on the limited context you gave. Now on the flip side, an example of a much better prompt would look something like this. My fiance and I are planning a week long vacation. We live in Massachusetts, so we'd be flying out of Boston. We enjoy adventure activities like hiking mountains, fishing and golfing, but we also really enjoy ending the day at a nice restaurant with incredible local food. Ideally, we'd like to fly no longer than five to six hours and we'd want it to be a direct flight. And wherever we travel, we'd want the weather to be on the warmer side. Can you help us decide on our itinerary? Being specific and providing as much context as you can will always result in a higher quality output when using AI tools. Now what's really cool is that chat TPP has both short and long term memory. So unlike Google where to continue your search, you basically start over from scratch with a new search query. Chat TPP works in a conversational manner where each prompt you type builds off the context of the previous prompts and responses that you've already generated. So for example, I could choose just one of the suggested itineraries and start diving in even deeper. Let's choose San Diego. What are the best days to fly at a Boston to San Diego, factoring in the cost of the flight? And boom, just like that, we have tons of great context on the best days to fly in and out of, the best months to travel, and even which day the week we should actually book the flight in advance to save the most money. This is all just for example purposes, but the key is to understand that you need to be specific with your prompts. Make sure to provide all the relevant information and be very clear on the goal that you're trying to achieve through the conversation with chat. So an example of being clear on your goal could look something like this. Let's imagine you're comparing two cameras. You could very easily prompt chat with compare the Canon R5 and the Sony A7S3. Now if your goal was to just get a very generalized comparison, that would be okay. But if your primary goal is to use this camera that you're buying to shoot epic video content, let chat know. So instead you'd write, my goal is to start growing a YouTube channel where I focus on filming talking head content, teaching people about investing in real estate. With that in mind, can you compare the Canon R5 and the Sony A7S3's video features? Now you're gonna get a much more relevant answer based on the goals that you're looking to accomplish. Now after getting that response, you could then respond and say, can you now organize all of that information into a table so it's easier to understand? And boom, now you've got an even easier way to compare and contrast these two cameras. This is the primary function of chat GPT, prompting, getting responses and then diving deeper into those responses. But I'm really just scratching the surface of what this tool is capable of doing. Again, this is the beginner's guide for people who have literally never used chat before. Deeper in this course, we're gonna get like crazy advanced. You're gonna learn things like coming up with YouTube ideas and social media content ideas, how to actually script out those videos from start to finish. We'll teach you how to get thumbnail ideas and then take those thumbnails to the next level with real visual examples. And one of my personal favorite tools, I'll teach you how to use AI to take the work that you've already done and just refine it and make it better. But before we end this module, I wanna dive into just kind of a live session where I walk you through the chat GPT interface and also explain some key features that you're gonna wanna know. All right, so here in chat GPT, obviously we have our home window, which is just our chat up in front of us. This is where you type your promise in and it will start a thread. Now the chats are saved on the left hand side of your screen, so you have all of your chat history here, which is really nice if you ever want to pick up where you left off or just search for something that you talked with chat about in the past. You can obviously click on the three dots on any of these, share it with another person. You can rename it so you can find it easier in the future. You could archive it or delete it if you don't wanna store it anymore. Now let's say you are within a chat and you wanna just start a new one, you can just come up to the top left of your screen and hit on new chat that will bring you right back to the main frame. Now moving over to the right here, you will see that I am using chat GPT 40. Now this selector basically chooses the reasoning model of chat GPT that you'll be using. Certain models are better at different things. I use chat GPT 40 most of the time and this brings us to an important concept which is that there is a paid and free version of chat GPT. Now the good news and why this is one of my favorite tools is the fact that the free version of chat GPT is extremely powerful. And most of what we talk about in this course from like script writing, ideation, refining scripts, all that stuff you will be fine doing. Now going back to the main chat window here, you'll see that we have some options underneath the window. First up we have upload files and more. So here just unlocks a ton of potential. Just one basic use case of this is I can come and grab this photo of a text message that I got from a friend asking me if I could play poker this weekend. I could literally upload this screenshot to chat and say, can you write a text message response, letting my friend know that I can't make it to poker? Okay, so I ask chat, it's gonna analyze that photo and then write out a response for me, which is super nice. You could literally take a screenshot of coding from the back end of your website, upload that and ask chat, hey, what's the issue with my code right now? My site isn't loading. You could also upload a screenshot of a thumbnail that you're trying to use on YouTube and ask for feedback on areas to improve and make the thumbnail more eye catching. Tons of functionality there and we'll get back into that later on in the course. Up after that, we have the search functionality. Now, chat GPT is basically trained on the entire internet, it has so much data at its fingertips, but the actual deep training is only basically allowed to access up to a certain time. Now the good thing is open AI is always pushing that time further and further, basically giving chat access to more and more of the internet. But let's say you wanted information on something that happened yesterday, okay? Chat GPT's deep training model might not have access to that yet, but what's cool is chat does have the ability to just search the web. So if you were doing something like that where you needed really cutting edge information, you could just toggle search on and then type in your prompt and you'll get an answer that reflects what is currently available to search on the internet. This is great and I usually have it on by default, but if you ever get a answer that you maybe think is just weird or could have more context, you can toggle this on and off and just see if you get a better response. Deep research now is something new and it's just using a different model, again a reasoning model of chat GPT that might be able to think in different ways compared to the models that are currently out. This is a paid feature. I don't think it's gonna apply too much to the context of this course, but if you were like a PhD researcher in a advanced field like Mathematics or Science, this would be a button that does actually end up being valuable to you, but for the most part, not that important. And then moving on to the three dots here, we have image creation using doll E, which will cover in the image creation section of this course and then the canvas. Now the canvas is super cool. If you're writing along email, you're working on a script for your YouTube channel, using the canvas tool will open your script in a different looking window where you can more clearly highlight things that you wanna edit, change all that stuff. And again, it'll be covered later on in this course. After that, we have the voice mode. So what this does is just accesses your microphone and allows you to talk directly to chat if you didn't want to say, type it all out. I don't use this on my computer at all, but I do have the chat GPT app on my phone and very often I find myself just hitting the voice button on the chat app and it allows me to quickly get my thoughts out to the app. And then finally, we'll move up to the top right here where we can click on our personal icon. And there's a lot in here that we could talk about. Most of it is really self-explanatory, but two things that we wanna cover is first this section here, customized chat GPT. I recommend clicking on this and just adding in as much details about yourself, what you're working on, what you typically are gonna be using chat GPT for. You'd obviously wanna type in like your career or whatever, again, your primary focuses with chat GPT. So you could say, I am a YouTuber who creates content teaching beginners how to shoot and edit videos. Boom, now that will give chat a little bit more context. Now you can also refine kind of who your chat is, okay? Do you want it to be chatty, witty, straight shooting? If you prefer it to answer in a nicer fashion or a more like strict and stern, straight to the point type person, you can obviously define that in here. And then I think the most important section here is actually just filling chat GPT in on as much info as you possibly can about yourself. You can let it know your age, you know, what you enjoy doing, what you like doing for work, what you build for business, what type of content you're working on. All of this is just gonna help chat provide you with the best response as possible to your prompts. So you'd wanna fill in all that information and then hit save, we'll just go back for now. Now the next thing that you wanna do is go into the settings and it's a very similar thing that you're gonna do here. But underneath of personalization, you're gonna see the memory feature here. Now this is one of the most powerful aspects of chat GPT. It basically will remember certain things about you. So very often I will let chat know, hey I'm working on a YouTube video comparing these two cameras. And it will actually show you on chat GPT, it'll say memory updated in the actual chat. All that's doing is basically taking that fact that you just gave chat and putting it into the memory section of the application. That's basically gonna store that for as long as possible. It creates it in a form of a long-term memory versus short-term memory, which is what takes place in a basic chat thread, right? You say, hey I'm doing this thing and it's very short-term, chat's gonna remember that for that thread, but then basically forget it the next time you start a new thread. So what you could do there is actually just click on manage memories, it'll bring up all the memories about you that chat has already kind of stored. You can delete any, modify them. And then also in a thread, you could say, I have brown hair. Update this in your memory, right? And it will show you this little sign here that says memory updated, got brown hair, okay? That's obviously really silly and not that important, but anytime you do have something where you really want chat to remember forever, you can just tell it like, hey, update your memory. And that does it for this quick video. It's an overview of chat GPT, what it is, how it works, what the interface looks like. I'd recommend taking maybe 10 or so minutes, getting yourself set up with chat GPT, play around with it a little bit, and then get pumped because throughout this course, we're gonna be diving in Ultra Deep to this tool. So thanks for watching, and I'll see you in the next one. Hello? Whew.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+Intro to Artificial Intelligence
+/
+ChatGPT Overview
+ChatGPT vs Claude vs Gemini
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+Intro to Artificial Intelligence
+6
+            
+              Lessons
+1
+How AI Will Change Your Life
+ChatGPT Overview
+3
+ChatGPT vs Claude vs Gemini
+4
+Craft Better PROMPTS (#1 AI Skill)
+5
+(MUST WATCH) AI Tool vs. AI Marketplace [Prompt Edit]
+6
+Fal.Ai Overview
+Next Module
+Back
+Lesson 2 of 6
+Next
+Complete
+Great Job! Keep Going!
+ChatGPT vs Claude vs Gemini
+Next Lesson
+ChatGPT Overview
+Intro to Artificial Intelligence
+Create your ChatGPT account:
+https://chat.openai.com/
+12/25 Update! Personalization settings
+ChatGPT moved the customization and personalization settings. It will either be in the top right or bottom left of your screen. Just click on your profile and you'll see options to customize and personalize chatGPT.
+11/25 Update! Small UI Change 👇
+For some users, the "create image" and other options will be revealed when you click the (+) button on the left side of your chatGPT prompt bar.
+10/25 Update! ChatGPT 5.0 is out 👇
+Overall, 5.0 is an improvement on many things within chatGPT but it doesn't change how you use GPT or how the AI works. Its just even better at answering questions. It's also available to free users.
+I'm personally still switching back and fourth between 4o and 5 just to get an idea of how they really differ but if I were you I wouldn't worry about it and just use the most advanced model you have access to with your account.
+I've been using the "auto" mode of 5 and it seems to work great.
+I'll come back and update this video if anything major changes that you need to know about!
+Comments
+638
+Post Comment
+Ken Keller
+June 18, 2026  9:03pm
+Free chat has none of those options under the  chat box and image creation is limited to 3
+REPLY
+Sharon Way
+June 18, 2026  6:15am
+So far this has been an amazing tutorial, I've learned a lot!
+REPLY
+Milap Nagarsheth
+June 16, 2026  8:07am
+Can we also use perplexcity intend of chatgpt
+REPLY
+Derick Smith
+June 15, 2026  6:25pm
+It is nice to read all your comments. But now I need your help; Can anyone tell me how to purchase the credits for the credit AI, where you pay only when you need to use Nano Banana?
+REPLY
+Adriana Giraldo
+June 13, 2026 12:57pm
+Where can I find the latest updates for chat? I know there have been some recently. Today’s date 06.12.26.
+In advance, thank you🙌
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

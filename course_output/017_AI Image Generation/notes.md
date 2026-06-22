@@ -1,0 +1,99 @@
+# AI Image Generation
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157412658/posts/2190702452
+
+---
+
+## Full Video Transcript
+
+What's going on creators? Anthony here and right now we're going to talk about upscaling your images. So upscaling images is pretty straightforward. First off, what does it actually mean? Well, sometimes when you have an image it might be a smaller file, lower resolution, not that detailed. Upscaling will take that image, use AI and make it larger by essentially creating new pixels out of thin air by analyzing what your existing image looks like. Now there are a couple reasons why we'd want to do this. First off, if you have a low resolution image, like something that you generated with AI, but it's just not that detailed, it will allow you to make it much more detailed. Or alternatively, let's say you have an image from way back in your past, taken on an older camera, maybe featuring some family members that aren't with us anymore. It'd be really nice to take that image upscale it and make it much higher quality. And that's all things that we can do using the tools that we'll cover today. Now one final reason why image upscaling, especially in the context of this course, is really important is because a lot of the time when we're creating a video with AI, we're going to first start with an image. We take that image as our reference, we put that into an image to video generator, and it will turn that image into a video, which we can then use as a scene in our final movie, whatever it may be. Knowing that we're using images to create videos, having high quality images is really important. So if I'm working on a really important AI video, something that I know people might watch on their computer or a TV, like a YouTube video, a lot of those are watched on larger screens nowadays, I will regularly upscale my AI images so that my AI video will also be higher quality. Now if you're creating something for social media or something that's typically going to be viewed on a phone, I do not think this step is necessary by any means, but I still wanted to cover it in the course because it is important there are a lot of different tools that can upscale images. I'm going to walk you through a couple options on fall AI and then my personal favorite, which is unfortunately on another site, but just want to give you all the options. So diving in here on my computer, we are on fall AI. This is a platform that's going to help avoid paying subscriptions. And if you go to the Explore tab, which is where I am right now, you can come down to search and now we will just type in upscale. Now there are going to be a handful of options because you can also upscale videos. You can see here Topaz upscale video, that's a really popular video upscaling tool. We're not talking about that today, we're just talking about images. So I'm going to go image to image and just filter by that. Now there are a handful of different upscaling tools here and I will tell you from my experience, I tested every single one of these. None of them are spectacular, but the best one is clarity upscaler here. So we'll click on that and all you would have to do is like so many other examples in this course, you're going to choose a image from your computer. We'll take this one right here. It's a relatively small file size. It's an AI image of AI Anthony Hiking in Hawaii. We'll take that. We do have a couple extra settings down here that we can play around with. I typically leave things at their default settings, but you have your upscale factor. So that is, do you want to double the size of your image, triple it, quadruple it, whatever it may be. I typically leave it at double. Now creativity here is the setting that determines how much range the AI has to fill in details with AI. So for example, if you increase this a ton, you'll find that your upscaled images might look pretty different than your original image. It might change facial features. It will take all this creative liberty because it's giving more power to the AI. If you lower creativity, the image is going to look more similar to what your original image was, but there still might be some clarity and resolution missing because the AI didn't have full range to again, just fill in all those missing details. I typically leave it at that default value right in the middle. Then we have resemblance again, really straightforward. The resemblance of an upscaled image to the original image. So the higher you put this, the more similar the image is going to look to the original guidance scale. We can just leave this as is. In a number of inference steps, I typically boost this up a little bit more. It's just like how many micro revisions the AI is going to do in the upscaled process. It'll make the process take a bit longer to upscale the image, but it's typically better at the end of the day. So I don't mind that extra length. And then from there, we can just hit run. It'll take a few seconds and we will get our upscaled image. And if you ever want to see the progress, you can always come down here on logs and it will show you as it's going the process. We obviously just finished. So it shows 100%. Then we get a nice slider here. And you can see this one had a little too much creativity, right? This is the original. This is the new one. And I would say that just doesn't look like me. It does look more detailed, more HDR. But let's lower that creativity, increase the resemblance, keep the inference steps right where it was. I think there's that 35, 34 is fine. And we will run this again. And now this looks much, much more like me. It's pretty much kept the image exactly as it was. And it's just enlarged it. It's added in that missing detail, given it more pixel data, which is great. It does add a little bit of like a cartoony vibe to it. And that's the drawback with some of these upscalers. It does look good. It's a larger image. There's slightly more detail to it. But sometimes this goes back to, you know, is this a necessary step all the time? I don't think it is, but it is a really good tool to have in your back pocket. So that is the clarity upscaler on fall AI. And I think it does a pretty good job. Now moving on to my true favorite upscaling tool. That is Magnific.ai. It's an AI tool that is not currently on fall AI. I'll let you know with an update in the description if that ever changes. But I really am impressed at the quality of this upscaling tool. Just looking at it right here, the interface really simple, easy to use. It actually has a couple different features. First is the upscaler. That's what they're most known for. Then they have Mystic, which is their just straight up image generator. So you just type in a prompt, generate whatever you want. It's pretty good. It competes with stuff on fall. Then we have Relight. This is a decent feature. You can basically take an image and change the lighting in it. So you can make a day scene look like a night scene. You can make a key light look like it's popping in from another side. You can change, you know, was it mid day or now is it sunset? Pretty cool. I don't you really use it that much. I haven't found that many uses for it. Up next is style transfer. This is actually really cool. You can upload an image and change it to be a cartoon or a Pixar animation or a Minecraft style like blocky image. You can change it to black and white. It's just like it keeps the image intact, but changes the style, which I do think is really cool. But the focus of this video is the Magnific upscaler. Now this is a paid tool, but it's a really affordable subscription. I'll have the link down below where you can check it out yourself. You get a set amount of credits per month and the credits really carry you a long way. So you can pretty much get the base level subscription upscaling. It's not a super credit intense purchase. So I've been happy with the subscription. I do feel like I get my value out of it using it's really straightforward. You're just going to make sure you have the upscaler selected. I usually stick with creative. I find it can go a little overboard and change the look of your image, but I also think it does a really good job of just upscaling detail nicely. So from there you would select your image, which we have selected that same one before. Our scale factor, we're going to increase the size by 2x. Now I don't need to write any prompt in here because it's just increasing the size of the image. You could give more directions here if you wanted, but it's totally unnecessary. Now from here we have kind of similar settings that we had in fall AI. We have creativity, HDR, resemblance, and fractality. Creativities, the same thing as before, how much range are we giving to the AI? Increase this number. It really can't change the look of your image, decrease it, and it's going to keep things pretty similar to the original. I typically run it at about negative seven. Then HDR, this is an effect in photography where it balances out the highlights and the shadows of an image and gives it a more edited look, right? Now if you are a photo editor, you know how to kind of manipulate photos. You know how to get this look. You know if you like it or if you don't like it. I like adding it myself if I want it. I don't want AI to do it for me. So I typically leave this low resemblance. Again, straightforward, how similar is your photo to the original photo or is the AI photo to the original photo? I leave this at zero. And then fractality is kind of an interesting one. I'm just going to read the description here. Control the strength of your prompt in intricacy per square pixel. Lower fractality means less detail, but typically results in fewer glitches. Higher fractality amplifies your prompt in increasingly smaller areas of your overall image. Example, if your image is a rose and you use a photograph of a rose as your prompt with a high fractality value, smaller rose light details may emerge within the main rose. So basically fractality is like it takes the prompt you gave and actually can almost like expand it or multiply the impact of it in the original or the output image. It's kind of a weird setting. If all you're trying to do is increase the detail in your images, I would leave this low. So I typically sit at like a negative six negative seven. We'll get out of that description right here. And the rest we can leave as is and we will hit upscale. From there, you'll see it's going to start running it. It's typically a pretty fast process, which I like. And then you have just kind of like a rolling history of all the other times you've used the tool. And you can see I use this tool quite a bit. This right here would be a good example of creativity and HDR being left way too high. The original image versus the output just looks absolutely completely different, which is worthless to me. We'll go back up to the top here and we can see that our original image versus the output. The output is just way higher resolution. There's way more detail. It looks natural. I just really like this tool and it's helpful to then take this. I can download the image up here, PNG. And now I can use that in an image to video tool, which is super helpful. But that does it for upscaling your images. Two different methods for you. Thanks for watching and I'll see you in the next one.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+AI Image Generation
+/
+How to upscale your images with AI
+Create AI Images of Yourself with Nano Banana
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+AI Image Generation
+8
+            
+              Lessons
+1
+ChatGPT Image Generation
+2
+Nano Banana Image Generation
+3
+Grok Image Generation
+4
+Photoshop AI Tools
+5
+Ideogram: Create Logos & Graphics
+6
+ChatGPT: AI Image Ads
+7
+ChatGPT: Ai Website Graphics
+How to upscale your images with AI
+Next Module
+Back
+Lesson 8 of 8
+Next
+Mark As Complete
+Great Job! Keep Going!
+Create AI Images of Yourself with Nano Banana
+Next Lesson
+How to upscale your images with AI
+AI Image Generation
+Clarity Upscaler on Fal.ai -
+CLICK HERE
+Magnific AI -
+CLICK HERE
+Comments
+103
+Post Comment
+Nick Healy
+June  8, 2026  8:49pm
+Is this on your website to avoid prescriptions?
+REPLY
+Nick Healy
+June  8, 2026  8:44pm
+Is this on your website to avoid prescriptions
+REPLY
+Robert Sudduth
+June  7, 2026 11:10am
+Good stuff. Thanks, Anthony.
+REPLY
+Nathan Morrissette
+May 22, 2026  1:37pm
+$40 a month seems pretty steep for a image upscaler app. Just my opinion carry on with your course.
+REPLY
+Ray Roman
+May 12, 2026  9:27pm
+It would be great to use a blurry or out-of-focus image to see how AI can bring the focus back on the subject.
+REPLY
+Anthony Gallo
+May 13, 2026  4:02pm
+You can do that with nano banana pro!
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

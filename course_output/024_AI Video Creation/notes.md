@@ -1,0 +1,123 @@
+# AI Video Creation
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157469701/posts/2193539833
+
+---
+
+## Full Video Transcript
+
+What's going on, critters? Anthony here. And in this video, we're going to talk about a really cool AI workflow strategy for creating really unique videos. It's called first frame last frame. Let's dive in. So for those of you who haven't heard about first frame last frame before, it's actually a really simple concept. You basically take an AI tool and you feed it in image. This is going to be the first frame of your video. And then you feed it a second image. And this is going to be your last frame. From there, you're going to give the AI tool a prompt, and it will use your prompt and basically create a video to connect your first frame to your last frame, making it all one continuous shot. At this point in the course, you're familiar with image to video tools where you take an image and turn it into a video. This basically upgrades that process a little more by giving you control of where that clip needs to end. It's just one more variable, which again, gives you more control. Now I'm going to walk you through a bunch of different examples of first frame last frame in this training. But to start, I want to answer the question of what is the best recommended AI tool for first frame last frame videos? As always, you want to check the description of this video because if a new version of a tool comes out and it's a little bit better than the ones that I talk about in this training, I will have that written in the description below along with any relevant links to bring you to that tool. But with that being said, at the current point in time, and for a good while now, I would say the two best tools in this arena first frame last frame are videos 3.1 model in the cling 2.5 model. It's hard to tell exactly which one is better because for certain scenarios, I typically choose one over the other, but overall, you cannot go wrong using either of these. Generally speaking, I think Vio 3.1 has slightly better overall video quality. Like the videos just look a little bit more realistic, but Vio 3.1 can struggle when it comes to kind of like complex transitions and just shots with first frame last frame, whereas cling 2.5 on the other hand, the video quality still looks really good. It's not quite as good as Vio 3.1, but it's really, really good at creatively transitioning between first frame and last frame shots, which you'll see in this training. Now, the last tool that is really helpful to use, and this is just such a common thread throughout this course at this point, it is nano banana. All things image creation, Gemini's nano banana is just crazy valuable at creating hyper realistic images in basically any style. And also editing the images and getting completely new creations based off of that first image. Now, nano banana Vio 3.1 in cling 2.5 can all be accessed on promptedit.com, which is great. This means you don't need a subscription. You can just buy credits and use these as much as you want. As always, I will have direct links to these tools in the description beneath this video so you can go try them out. Alright, so we're going to dive on in here. I'm going to start with basic examples of first frame last frame, and then we're going to get pretty advanced as the training goes on. To start, we need some first in last frame images that we can use and to create those right now, I'm going to use nano banana pro. So again, we have a full training on this. So if it isn't familiar to you, at this point, you got to go back and watch the previous trainings, I'm just going to come in, set our aspect ratio to 16.9. We'll set our resolution to 2k. And I have this prompt here, very basic, create an image showing a barn overlooking a beautiful Montana pasture at sunset. We'll hit run, and this is the image that we got. I think it's awesome. It reminds me of the show Yellow Stone that I really loved. This will be the first frame that we use in our first example. But now we need a second frame. Now, my idea for this shot is I want a horse to basically walk into frame in this front right corner of the image. So to do that, we just stay right in nano banana. We're going to upload our original image of the pasture as a reference image right here. And then from there, I'm just going to use the prompt, add a horse in the front right corner of this image, grazing in the grass, same exact aspect ratio, same resolution. And we only need one version of this will hit generate. And this is the image we got. Now, from there, we're going to go to view 3.1 on promptedit.com. This is what the interface of that tool looks like. And it's very simple. It asks you to add your first frame, and then it asks you to add your last frame. And then you put a prompt in it. So we will go and choose that image of the first frame, which is the barn with no horse, we will then select our last frame, which is this image with a horse in the front right. And then we will do a very basic prompt, a majestic horse walks into frame and starts grazing on the grass. Now, we can be a little bit more broad with this prompt, because in a sense, the story is already written in the first and last frame. There are only so many different things that could happen between those two frames. So I can just be kind of basic here. Under the additional settings, we do have more control. Do you want it to be a 4, 6 or 8 second clip? We can just do 6 right now. Our aspect ratio, we're going to set to 16 by 9. Now, another amazing thing about VO3 and 3.1 is that it can generate audio and sound effects for you. I'm going to leave that on right now. It usually does a pretty good job. And we will hit run. And then after a brief moment, waiting for VO3.1 to create our video, we have the finished product. And I think it looks incredible. VO3.1 always nails these realistic style videos. It's a simple transition. So it had no struggles at all, really happy with the end result. Now, quickly, let's compare the same exact process, but using cling 2.5. We'll just go up to the AI tool selector, hover over cling and select 2.5. And you'll notice the interface looks exactly the same, which is great. All we do is upload the start frame, the end frame will use the same prompt, same settings and hit generate. And you can see the finished clip looks really nice. It's basically identical to VO3.1. It's honestly so hard picking which one of my favorite is. I really think these tools are both incredible. Now that you know how the process works and how simple it is, I want to just get your creative juices flowing by showing you some other examples. I won't walk through the process step by step using the tool just because it takes time. And I want to be respectful of your time here. So in this example here, we have a man with no hat on. And I think he kind of looks like the bad guy from walking dead, even though I used nano banana to create it. That will be our first frame and then our second frame is that same character. Now he's wearing a hat. And I instructed nano banana to give him somewhat of a confused expression, almost like he's wondering, does this hat look good on me? Now, we'll throw that into VO3.1 on promptedit.com. And just like that, we now have a really good transition where the man puts the hat on. It gives you so much more control than just having one image at the beginning and hoping that the hat he puts on at the end is exactly what you want it to be. By controlling that last frame and having an image for it too, you can control exactly what that hat looks like. Maybe you are a hat connoisseur or you sell hats online. You could literally have it use a picture of one of the hats that you sell. So it's more on brand, whatever video that you're creating. Really, really cool. And again, I think it came out perfect. And this is another example of what I would call a simple or basic first frame last frame video. So you're going to get almost the same exact result on cling 2.5 and VO3.1 with VO may be getting a slight edge for realism. Now, this next example, though, is a really good example of where cling 2.5 shines. And that's when we're kind of asking a more complicated or complex transition between our first and last frame. So our two images are going to be this really nice car in a parking lot. That'll be our first image. And then our second image is going to be the car no longer there, but a transformer instead. So as you can imagine, we're going to try to force this car to transform into the transformer. And I'll do it on both platforms so you can see the results. Okay, so what you're seeing right now is cling 2.5. And I think all things considered it did a really good job. It is creative enough to merge these two together and create a sequence that really does make sense. It is not perfect. It's not million dollar Michael Bay level of transformer movie. But I do think it makes a lot of sense. On the other hand, the VO3.1 video, which is what you're seeing right now, doesn't look all that natural. You can kind of see elements of the car just disappear entirely. And it's just not quite as good. And this is really where VO3.1 struggles. It's not good at creatively getting through these more complex transitions. Now speaking of cling 2.5 again being better in these more complex situations, here is another one for you. So on my honeymoon with Courtney, I got tons and tons of videos of us, you know, doing different hikes, exploring different cities, all that kind of stuff. If I wanted to creatively connect these two clips right here, I could do that by taking a frame from the end of one video and then taking a frame from the beginning of the next video. By doing this, I can then use first frame last frame to connect one shot into another with some kind of wild looking AI transition. I used a relatively basic prompt telling AI that as the girl passes the camera, I wanted to transition from the hiking scene into the city environment. And I will say cling actually did a somewhat decent job of this. Again, this is a wild scenario, like in what world could you ever really make this look natural? But I do think cling has done a pretty decent job here, all things considered. If I wanted to generate this tons of different times and test out different like start and end frames, I think we could dial it in even more. But let's compare this to the VO3.1 transition. Now this is a super common trend that I see with VO3.1. Whenever it gets confused and there's a first and last frame that are hard to transition between, VO3.1 will basically just cut it. It will do some sort of fade transition. It looks like any regular edit that you could do with a standard video editing program. And it takes a lot of the fun out of it for me. It's just not anywhere near the effect that I was trying to go for here. So again, slight edge to cling 2.5 when it comes to these more complex transitions. But again, you know, both tools are valuable. Now another really good application of first frame in last frame is using it to actually animate graphics. So let's say you have a logo like the content creator.com logo right here, I could actually start with a blank white frame as our first frame and then upload our last frame as the actual logo design. From there, I could have a prompt like create a smooth clean and modern logo animation where the letters of this logo appear one at a time. I found that both cling and VO3.1 do a decent job in this scenario. I would say cling 2.5 probably has a slight advantage. But now we've got a animated logo and I don't need to know any crazy VFX program skills, aiming like that. Now our last example here is really cool. And I basically call it first frame last frame shot sequencing. In this scenario, we're going to create one video that has multiple of these first frame last frame sequences strung together in a way that actually makes sense. The example that I'm going to do here is basically a like high end product style commercial for a camera. So what I did first here was in nano banana pro, I created our first frame, the first frame of the entire sequence. I've already done it. So I'm just going to kind of walk you through the process. And then we have this prompt create a high quality 3D style product shot of a camera floating center frame. The background is a gradient white. And here we go. We've got a nice little camera with a gradient white background from there. I took that image over to nano banana pro. I uploaded that image of a camera with a new prompt that said create a 3D style deconstruction shot of this camera with each element of the camera separated into its own unique component. That gave me this image right here, which again is so freaking cool that AI was able to do this with such a basic prompt. So this is essentially going to now be the last frame of our first shot in the sequence. Now I knew next I wanted this camera to basically reform back together and then end up in a human beings hand where they're now taking a photo of it. So from there what I did, I uploaded that deconstructed photo now as the new reference in nano banana. And I used this prompt right here create a new image keeping the camera about the same size in the frame. But now it's being held by a blonde girl as she uses it to take a photo outdoors in a beautiful field of flowers at sunset. And just like that, we have that camera now reformed back together in a person's hand as they take a photo of it. This is going to be perfect. Our video will transition back now to being used by a human being. And I did want one more final sequence in this video where the person has now taken a photo they're looking down at the camera and they're smiling because they're happy about the amazing photo they just took. So what we did is we uploaded that image of the girl holding the camera in as a reference to nano banana. And I used this prompt right here recreate this shop. And now have the girl holding the camera just below her face. She's looking down at the camera, reviewing the photo she just took. She's happily smiling because she likes the photo. Just like that, we have an awesome image pretty much exactly what I wanted. Now for this scenario, because I knew we had somewhat of a complex transition deconstructing that camera, I use clang 2.5. So I'm running you through my history here so we can just see it all together. You can see my first frame was that image of the camera. And then my end frame was that deconstructed image of the camera. And what we got was this video right here, which is perfect. Really nicely transition between those two shots from there, our next sequence was first frame is now that deconstructed image. Because remember, that's where the previous video will end. So now that's the first frame of our next shot. And then our last frame is transitioning to the girl actually holding that camera. And then our prompt says the camera snaps back into its normal form, all the elements forming back into the camera, the scene then fades into another shot of a girl holding that camera to take a photo. And what we got looks like this. The camera reforms, it is then grabbed by the girl and now she starts taking a photo of it. Again, this is first try. I did not have to redo this once the AI just nailed it again, because we gave it proper instructions with the first and last frame. Now our third and final shot in the sequence, we want that girl to take the photo, look down at it and smile. So we'll scroll up here and we can see that next generation. We have the first shot is the girl holding the camera. Last shot is now the girl putting it down. And the prompt we used is the camera rotates slightly as the girl takes a photo. Lower is the camera to review the photo. She just shot and smiles happily with the result from there. We are getting that beautiful shot right there, perfectly following the instructions. Now from here, I'm going to take those videos we just generated. I'm going to bring them into any video editing program. I'm using Premiere Pro here, but you can do cap cut, divinci resolve, you can do eye movie, any free editing program on planet earth is going to allow you to do what I'm showing you right now. And if you don't know how to edit, check out the last section of this course. I have two very, very long in depth videos that show you everything you need to know about editing videos in my two favorite free softwares, which are cap cut and divinci resolve. So all we have to do right we've got these three shots right here, we have the first shot of the camera being deconstructed, we have the second shot of the camera reconstructing be grabbed by the girl, and we have the third shot of the girl, you know, looking down, being happy. I can literally just take all three of these, throw them on a video timeline. So they'll play one after another now. And because you know our first frame to last frame, then becomes the first frame of the next clip and then goes into the next final clip, it's all going to play seamlessly. And I can show you right now. Isn't that crazy how this just perfectly became a really, really professional looking video? I didn't have to take a camera out ironically, even though this was about a camera didn't need to grab a camera, didn't need to record any footage. I literally just used nano banana to create my first and last frames. Then I used cling to point five to turn those into videos. And then any video editing program will work to take those videos, put them on a timeline. And now you've got a really professional product. There you have it though, first frame, last frame video generation in a nutshell, you've seen some basic to advanced examples, go out and try this, have a ton of fun. It is one of the areas where you can just be insanely creative. I hope you enjoyed this. And as always, I will see you in the next one.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+AI Video Creation
+/
+Epic First frame / Last frame AI videos
+AI Visual Effects & Camera Angles | Runway Aleph
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+AI Video Creation
+13
+            
+              Lessons
+1
+(MUST WATCH) The 5 Step AI Video Workflow
+2
+Ai Video Generation | image to video
+3
+AI Video Generation | text to video
+4
+How to Lipsync & create talking characters with HeyGen
+Epic First frame / Last frame AI videos
+6
+AI Visual Effects & Camera Angles | Runway Aleph
+7
+AI Voiceovers
+8
+AI Voice Clone
+9
+AI Voice Swap
+10
+Wan 2.2 | Replace Characters in a Scene
+11
+Wan 2.2 | Replace a background in a scene
+12
+Ai Studio Background
+13
+Kling o1 Edit | It's like photoshop for video clips
+Next Module
+Back
+Lesson 5 of 13
+Next
+Mark As Complete
+Great Job! Keep Going!
+AI Visual Effects & Camera Angles | Runway Aleph
+Next Lesson
+Epic First frame / Last frame AI videos
+AI Video Creation
+As a ContentCreator.com student, you get a discount on PromptEdit AI credits AND the option to subscribe at a discount as well! Use this link to claim your student discount:
+CLICK HERE
+Try Kling 2.5 Turbo on Prompt Edit:
+CLICK HERE
+Try VEO 3.1 first frame last frame on Prompt Edit:
+CLICK HERE
+To try Kling 2.5 first frame last frame, you can signup at:
+https://higgsfield.ai/
+To locate the tool you'd follow these steps:
+- hover over "video" on the top menu
+- select Kling 2.6
+- on the lefthand side of the screen click on "model" and switch to Kling 2.5 turbo.
+- from there you will see the option to add first and last frames
+Comments
+75
+Post Comment
+Alan Robertson
+June 18, 2026  9:13pm
+Wow, this stuff is quite amazing!
+REPLY
+Paul Alvarado Mendoza
+June 16, 2026  9:08pm
+Is it possible to use API or MCP towards Promptedit.com? I want to programmatically from claude code make content.
+REPLY
+Tony Brent
+June  5, 2026 10:34am
+Anthony, Tony here.
+I tried to generate 3 videos using Veo 3.1 and Klingm2.5 using images first and last frames. The images are from my children's book which were AI generated from my book using FireFly. The two of the videos generated but won't engage when the play button is clicked on. The other two did not generate for some technical reason. Feedback is appreciated
+REPLY
+Yuni Martin
+June  1, 2026  9:14pm
+Kling 2.6 only has the horizontal ratio, not the 9:16 vertical :(
+REPLY
+Anthony Gallo
+June  1, 2026 10:03pm
+I will reach out to them now and get them to add it!
+REPLY
+Anthony Gallo
+June  1, 2026 10:19pm
+Hi Yuni - kling 2.5 will automatically match whatever the aspect ratio is of the photos you upload as the start and end frame. So if you upload a 9x16 vertical image the final video will be vertical
+REPLY
+Giorgio
+May  6, 2026  7:31pm
+That is insane!!!
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

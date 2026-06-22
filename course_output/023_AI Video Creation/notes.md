@@ -1,0 +1,111 @@
+# AI Video Creation
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157469701/posts/2192666653
+
+---
+
+## Full Video Transcript
+
+In today's video, you're going to learn how to make insanely realistic talking head content featuring yourself as an AI clone or a completely new character. You can use your own voice, like I'm using right now, or you can simply type a script and have a preset voice read it out for you. Let's dive in. Okay, back to the real Anthony here, and now the tool we're going to be using to get this effect is called Hagen. Most of the most popular AI video tools out there specialize in making really cinematic AI videos, but they max out at around five to 10 second clips. Now this isn't a huge deal for most types of video production because the average clip length in a movie, a commercial, a TV show, whatever it may be, it's less than five seconds. But for those of you who want to make talking head content where a character sits in front of a camera like this, and they speak for much longer than 10 seconds, Hagen is by far and away the industry leader. For a really long time, the only way to access Hagen was to go to their website and subscribe for a pretty high price. Now in my opinion, this was justified because it was that much better than all the other alternatives for talking head content. But thankfully, Hagen made their tool accessible to developers, so now you do see it being added to popular AI marketplaces out there. Today, as always, we're going to be using it on promptedit.com where you can use it without a subscription, you just pay as you go. And it's honestly a really simple tool to use, but the results are incredibly high quality. We're on my computer now, and it's really easy to navigate to. You just come up here to video, come over, slide to Hagen, and you can see the avatar for image to video model. I'll also have a direct link to Hagen on prompt edit in the description below. You can click on it. It'll take you right here. Now, if you've been watching each video in the course one at a time, which I'd highly recommend, you should recognize this interface because a lot of the AI tools use a very similar interface. Up here on the top left, this is where we're going to upload our image, and you can see I've already uploaded an image of myself that I created with NanoBanana Pro. Hagen is going to take this image, take whatever script or audio we want to use, and it will animate the image to make that person talk in a very realistic fashion. If you haven't watched the trainings on NanoBanana Pro yet, definitely go back and watch those videos. You can see here I've switched my tab to NanoBanana Pro over here, and I used it to make a ton of different AI clone images of myself, well, and aliens, that I then used Hagen to animate. So once you have your image uploaded to Hagen, underneath that, you'll see there are two different options for creating the voice. The first option is simply typing in the script. You can see we have that selected here, and I have the line from the intro of this video typed in already. Beneath that, we have the option to choose which preset voice you want to use. Now this list will likely grow over time, and you can click on this button here to preview each voice, but all you do is select the voice that you want to use. You can then choose the talking style. Now, stable is basically like calm, kind of neutral. It's not going to go over the top or anything like that. Expressive is the opposite. It's going to be very expressive. They're going to move their hands a lot and be very dynamic. And then default is kind of meeting in the middle, a very normal expressiveness when talking on camera. I kind of like stable. That's typically what I go with. After that, you have your resolution. Now, each of these is going to cost more credits as you go up in resolution. I've honestly found that 720p looks really good, but for the intro of this video, I did use 1080p as our option. And then finally, you can choose your aspect ratio, whether you want it 16 by 9, which is like landscape for YouTube, 9 by 16, which is what you choose for vertical social media content, like TikToks and Reels. And then you also have the one by one square as an option as well. I'll keep mine on 16 by 9. And then from there, you would hit generate. I already ran that generation, and you can see it right here. Or you can simply type a script and have a preset voice read it out for you. You can see the kind of like, stabilness of that voice. It was very calm, very cool, very collected. Now, rather than type in a text script, the really cool option is to select audio file. From here, all you have to do is record yourself or any voice actor, any person you want. Speaking whatever lines you want to be in your video, you upload that audio file here, and it will use that audio file to animate the original image. That's what I did for the majority of the intro to this video. And I love that because it's just the humanness of the voice really does show through. And I feel like it helps that AI look even more realistic delivering those lines. In today's video, you're going to learn how to make insanely realistic talking head content featuring yourself as an AI clone or a completely new character. You can use your own voice like I'm using right now, or you can simply type a script and have a preset voice read it out for you. Now, this is really cool. Let's say you want to use your own voice with a Hey Gen video, but you don't want to actually record the audio yourself. You can actually use an AI voice clone and have that be the audio for your Hey Gen video. So on my screen here, you can see we have Hey Gen selected. And if we switch over to audio file here, you'll see this little note here. You can use 11 labs text to speech to generate speech in your own voice to use in your videos. Now, you can click on this right here. It's actually like a little shortcut, but all it does is it brings you over here to the audio section under voice. And then we have the tool 11 labs TTS for text to speech selected. Now, this is a really valuable tool. It's basically a really nice voice over generator. You can type, you know, anything you want in this box here. And then you would come down and you would select the voice. Now, 11 labs text to speech has a lot of preset voices, right? You can preview all of these and then select them and it will generate a voice over with the voice that you selected. But at the top here, you'll see this button for use your own voice. Now, I've already made my own voice. You can see Anthony's voice here, but you're not going to have that to start. You would want to click on this, use your own voice. Now, this allows you to create your own voice clone with 11 labs. And it's really simple. You just name it so I could name this Anthony's voice V2. And then you can do one of two things. You can upload an audio file or you can just enable the microphone on your computer and record directly into prompt edit. Now, I've already done this. So I will just select, you know, Anthony's voice clone. This is a little sample of me talking. And then from there, you could select this box to remove the background noise. But ideally, you want to use a voice sample of yourself that has no background noise. Because when you check this on, it will kind of process the audio clip. And it won't make the voice clone quite as accurate. So I'm going to leave this unchecked and then clone our voice. From there, you can click on the drop down of voices. And you'll see your custom voice clone is selectable. You can click on that and we'll just go ahead with this little segment here and hit generate. And just like that, we now have an audio file in our voice clone. Now, as far as the quality of the voice clone is concerned, it's going to vary depending on your voice. Like anything, AI is going to be better at cloning certain people's voices compared to others. Now, if you find that your voice clone is like not sounding great, the first thing you could do is try and upload a longer sample of your voice. I found that the longer the sample audio that you upload, the more accurate the clone will be. But the second thing you can do is come down here and play with the stability. Now, it's going to default at 0.5, bringing it down lowers the stability and it's going to make the voice sound more expressive. But if you increase it, it's going to make the voice sound a little bit more consistent. I find that my voice is kind of expressive. I have a lot of like up and down energy in my voice. So it's a little bit more accurate for me on the zero end. But for some people that might have a more like calm, consistent voice, increasing this to 1.0 could help you. It's just something that you're going to have to play around with and see which one generates the best voice for you. From there, you would just download the audio that you created using your own voice clone. And in HeyGend, you would upload that file as the audio sample that you want HeyGend to use to animate the video. Pretty cool work around that allows you to create more AI clones using an actual voice clone of yourself. Now, that really is the basic premise of using HeyGend to create talking head AI characters. It's super simple and I think the results are great, which is why I'm constantly using this tool for talking AI characters. Now, a couple things to keep in mind and a few tips to help you get the most out of this tool and also save some money while you're at it. One thing is that HeyGend is for animating characters talking. It's not great at animating the background of your images. So just keep that in mind and I'll show you an example right here. We have this clip of the Nighted Anthony speaking, which is pretty cool. You'll notice that we have some fire in the background here. At first glance, it doesn't look that bad. You can see the fire moving. But as the video plays longer, you'll see that the smoke will almost start going backwards at a certain point in time, which is very odd. So it looks good. And then the smoke starts going back into the fire, which is kind of odd. In this example here, Anthony speaking at a podium, it actually did a pretty good job of recognizing the fact that there are humans in the background. And it gives them a little bit of movement in the background. You can see some of them moving their head as if they're kind of like intently listening. It looks good. Honestly, it looks better than if it were just a perfectly static image and those people weren't moving at all. Here in this example with our alien, you can see it actually did animate some of the computer screens in the background, which I do think looked pretty good. If it was a much longer clip, I imagine it would have started looping that animation, which could look a little wonky depending on how close people are looking at the background. So what I would recommend is to have simple backgrounds. The purpose of this tool is to animate talking head content. Like the content you're watching right now, there's no movement in the background. So it's not really a big deal. Hey, Jen, isn't necessarily a tool for making really cinematic AI videos like the one you're seeing right now. You'd use the other tools we teach in this course, like clang, VO, and so on. Now, let's say you want the best of both worlds. You want a really cinematic clip. You want the background to have movement in it. You maybe want the camera to be moving and have a really dynamic scene, but you also want to have control over that character and what they're saying. What I'd recommend you do here is use one of the more traditional cinematic AI tools like clang or VO. Those tools allow you to define what a character is saying in the scene. It just doesn't allow you to control what that voice sounds like. In one clip, you might have, you know, an American accent. And then in the next clip, it might have almost like an Asian accent to it, even if your character looks consistent scene to scene. If their voice sounds different scene to scene, that's going to throw a lot of people off. The solution to this problem is actually really simple. You would use the cinematic AI video tools like clang or VO. You generate as many scenes as you need, even if the voices in each of those clips are completely different. We don't need to worry about it right now. You then take those videos, edit them together, however you like, and then you can use an AI voice changer tool to replace all of those inconsistent sounding voices with one consistent voice. You can even use your own AI voice clone. We have specific videos in the course that are on screen right now that show exactly how to do this step by step. So I won't repeat myself in this video. I just want you to know that it is possible. And if that's something you want to do, go check out those trainings. I'll also have them linked in the description. Now, the next point I want to make is actually a tip for those of you creating slightly longer videos. If you were making a five minute long YouTube video or even a five minute long Instagram reel, I wouldn't recommend doing that entire five minute long clip in one Hagen generation. It could get at 95% right and it often will. But if there's a small mistake at maybe the very end of that video or even somewhere in the beginning, you then have to rerun that entire generation. What I do instead is break your video up into smaller segments and just do each segment as its own individual Hagen generation. This protects you a little bit in case one generation, all of a sudden is looking weird or you want to replace some sort of facial expression that Hagen did rather than rerun the entire five minute long generation. You only have to do a 30 second segment or a one minute segment. And beyond this, a pro tip for you. If you want to improve the engagement and increase the watch time on your videos, I'd actually recommend generating multiple talking head clips, but each one in a slightly new scene. So for example, this clip that you're watching on screen right now, it's a video Nick made of himself as a real estate agent giving tips for you know, buying your first home. As the video progresses, you can see Nick is in all of these different scenes. Some of them are kind of comical, which also adds to the engagement level of the video. All of these clips were made using Hagen. The process doesn't change at all. You just make individual clips. You then throw those together on a video editing timeline and then export the video from there. Very simple process and we have a ton of editing training at the end of this course. So check that out if you've never edited, but it will improve the quality of your videos. Now my last tip for you and this is for people who want to save money. Hagen is a really, really impressive AI tool. And usually the more impressive a tool is, it can cost slightly more credits, which sometimes we want to minimize. If you were making a 10 minute long talking head video and you wanted to use Hagen for a talking AI avatar, rather than make an entire video, a 10 minute long video of your AI character talking, instead you could just use Hagen for the first 30 seconds, maybe another minute in the middle of the video, and then another 30 seconds at the end of the video. Outside of those small segments you made with Hagen, you could then use 11 labs, which is a much more affordable voiceover creator to fill in the gaps and continue delivering that script in the areas that weren't made by Hagen. If you yourself are talking, you don't even need 11 labs. You can just use your own recorded voice for those sections. And then as far as the visual side is concerned for those gaps where you're not using Hagen, you could use much more affordable AI tools to create video b-roll. You could even use AI generated photos, other graphics, all these different things to kind of fill that space. So the visuals of the video are constantly changing, which again will help increase your viewer engagement. You never really just wanted to be a video of the person on screen forever. But it will also save you money because you're not using a complex AI tool like Hagen to make the talking head segments for all of those gaps. But that doesn't my friends. Hagen is a crazy valuable tool. I'm excited to see what you create with it. Thanks for watching and I will see you in the next one.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+AI Video Creation
+/
+How to Lipsync & create talking characters with HeyGen
+Epic First frame / Last frame AI videos
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+AI Video Creation
+13
+            
+              Lessons
+1
+(MUST WATCH) The 5 Step AI Video Workflow
+2
+Ai Video Generation | image to video
+3
+AI Video Generation | text to video
+How to Lipsync & create talking characters with HeyGen
+5
+Epic First frame / Last frame AI videos
+6
+AI Visual Effects & Camera Angles | Runway Aleph
+7
+AI Voiceovers
+8
+AI Voice Clone
+9
+AI Voice Swap
+10
+Wan 2.2 | Replace Characters in a Scene
+11
+Wan 2.2 | Replace a background in a scene
+12
+Ai Studio Background
+13
+Kling o1 Edit | It's like photoshop for video clips
+Next Module
+Back
+Lesson 4 of 13
+Next
+Mark As Complete
+Great Job! Keep Going!
+Epic First frame / Last frame AI videos
+Next Lesson
+How to Lipsync & create talking characters with HeyGen
+AI Video Creation
+As a ContentCreator.com student, you get a discount on PromptEdit AI credits AND the option to subscribe at a discount as well! Use this link to claim your student discount:
+CLICK HERE
+Try out HeyGen on Prompt Edit:
+CLICK HERE
+Comments
+96
+Post Comment
+Birgitta Sjöstrand
+June 16, 2026  2:55pm
+Does it only work in English? Or can I use it in Swedish too?
+REPLY
+Ahmed Razeen
+June 13, 2026 10:36am
+Hi Anthony and the Content Creator Team,
+Is there a way to accurately match lip movements with the actual words spoken? It seems they are not in sync.
+REPLY
+Gbola Ola
+June  9, 2026 10:48pm
+That was really useful. Thanks
+REPLY
+Michelle Ross
+June  9, 2026  3:13pm
+How can i make my character lip sync sing?
+REPLY
+Wayne Burrows
+June  3, 2026  2:12am
+All I want to know is how you get the clone or any AI generated person speaking, to stop showing the mouth fully & overly expressively moving its mouth when it's pronouncing words? Because no one speaks like that when they move their mouth. You can clearly see the difference between how Anthony's mouth is 'naturally' moving when he is speaking live, versus how his AI clone's mouth is moving.
+It is two totally different types of movements and you can clearly tell that it's AI that's speaking and not him because of how OVERLY demonstrative his mouth moves. Can a simple prompt correct that? Oooh, maybe I should try that myself and see what happens, huh? Lol.
+REPLY
+Ahmed Razeen
+June 13, 2026 10:34am
+Totally agree. Also, the lip movements don't match the words.
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

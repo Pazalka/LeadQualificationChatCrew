@@ -1,0 +1,100 @@
+# Intro to Artificial Intelligence
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157412657/posts/2196584465
+
+---
+
+## Full Video Transcript
+
+If you're new to AI, there's a very good chance you've already heard people throwing around names like Chatchy PT, Claude and Gemini. These are the three biggest AI chatbots online. And if you're just getting started, choosing which tool you wanna start using can feel a little overwhelming. So in this video, I wanna make it really simple. We're gonna break down Chatchy PT, Claude and Gemini, one by one, specifically through the lens of content creation. We'll talk about where each one shines, where each one falls short, and which one might make the most sense for you. Let me hide. Now, before we dive in, spoiler alert, this is the biggest takeaway. All three of these tools are very good. They are much more similar than most beginners realize, and no matter which you choose, you can go through this entire course with zero issues. It's like choosing an iPhone or an Android as your smartphone. Both make calls, they send text messages, they take pictures and so on. Despite the fact that people love arguing which one is better online, they're essentially the same tool. The real cheat code to using AI comes down to the user's skill and their ability to prompt the AI to get it to do what they want, which is a big topic that we cover in this course. So either way, this is not one of those situations where choosing the wrong one ruins everything. But with that being said, each one has its own personality and strengths. So let's get started with Chatchy PT. Chatchy PT is what most people consider the Swiss Army knife of AI chatbots. If I describe it in one sentence, I would call it the most versatile tool of the three. It's great for brainstorming ideas, building outlines, writing drafts and scripts, helping with daily tasks and creating images. That's a big reason why so many people use it as their default AI tool. It does a little bit of everything, and it does most of these things really well. For content creators, that means you can use it to come up with video ideas, structure scripts, write emails, repurpose content, generate ad ideas and even create or edit visuals without constantly bouncing between tools. That convenience is hard to beat. Now the downside with Chatchy PT is that because it does so many things, it can sometimes feel a little broad, not best in class at one particular thing. The output is often very solid, but not always the most nuanced or human sounding right away. So sometimes you need to guide it a bit more to really make the writing sound like you. Now in this course, I will teach you how to train AI chatbots to adopt your voice and your thinking style to make it an even more perfect match for you. Either way, if you want one tool that can handle your day-to-day tasks, Chatchy PT is probably the best starting point, and it's the AI chatbot that I will be referencing the most in this course. Up next is Claude. Claude is the thoughtful writing specialist. This is the tool that a lot of people love for script writing, long-form content and refining drafts. Chatchy PT often gets criticized for being overly agreeable, never challenging you on your beliefs, and out of the box, it sounds a bit more robotic. In contrast to this, Claude often feels a little more natural, a little more thoughtful and more human in the way that it writes. It's not afraid to call you out on mistakes, suggest deeper edits and so on. So if your biggest priority is having strong writing right out of the gate, Claude is a very strong option for you. Claude also has some other features that people really appreciate. Like Claude Code, which is a helpful integration that is extremely powerful for coding sites, apps, and other tools. There's also Claude Codework, which is basically a desktop integration that can give the AI access to your entire computer so it can pull up different files, edit files, and it's more of like an actual computer assistant rather than just a chatbot. Now, thinking through the perspective of a content creator, Claude does have two primary disadvantages. First is the usage limits. Each AI chatbot has a free and paid plan. The paid plans aren't really stronger or smarter than the free plans. Instead, you just get more usage. It's like having a car with a bigger gas tank. On the free plans, after a certain amount of usage over the course of a day, the tool will basically tell you to chill out and let the gas tank reload before you can use it again. The pro plan increases that gas tank so you rarely hit any usage limits at all. Now, the Claude free plan does tend to hit that usage limit a bit earlier, but that's because of the fact that Claude thinks deeply about each answer it gives you, so it spends a little bit more of that gas with each question which causes that limit to get hit. So it's kind of a good and a bad thing at the same time. The other downside of Claude is that it doesn't have native or powerful AI image creation. Compare this to both chatchubt and Gemini, which can create and edit amazing AI images. So at the end of the day, unlike chatchubt, which is kind of good at everything, but master of nothing, Claude took the approach of do less, but do it better. So if writing is your main priority, Claude is awesome. Then finally, we have Gemini, which is by Google. And right away, we've already covered the big superpower of Gemini. Considering it's owned by Google, they've done a great job of integrating it with all of the other Google tools, like Gmail, Google Docs, Google Sheets, and so on. If you live inside the Google ecosystem, that integration can be very valuable. The other main strength of Gemini is its ability to do extremely deep research. Within a single prompt, it can process basically more information than either of the other AI chatbots. Without getting overly technical, AI tools basically have a certain amount of tokens that they're able to spend each time you prompt it or ask a question. For simple numbers, most AI chatbots limit each prompt to around 200,000 tokens that they're allowed to spend, getting the answer for you. Gemini can go up to two million tokens for a single prompt. So if you wanted an AI chatbot to basically read a 500 page book and give you a detailed summary, Gemini has enough tokens to read the entire book, think and give you a summary. Whereas Chatgit and Claude, they kind of run out of their tokens earlier and they lose steam. It's kind of like a muscle that just gets super fatigued. In theory, you could break that book up into all its individual chapters and Claude and Chatgit would be able to process those smaller bytes, but it's nice that Gemini is strong enough to just do that all in one session. Gemini also has the added benefit of being owned by the same company that owns the largest search engine on planet earth. So all of that searchability that Google has, Gemini can take advantage of, and again, it contributes to its really powerful, deep research abilities. So if you're creating really complex educational videos, deep dive content, research papers or anything like that, Gemini is a really good option to explore. The drawback with Gemini is that it's not quite as creative with that research. So it's good at getting you the facts, but it might not be the best at writing a script and sounding like a human. So in other words, it's not usually the tool that people get most excited about when it comes to polished script writing. It's more for research organization and using that larger Google ecosystem. Now, the other superpower of Gemini is the fact that it has one of the best image generation and editing tools on the planet built into it, NanoBanana Pro. You'll learn a lot about this tool in the course, but it's awesome and it's nice that it's built into Gemini. However, you don't need Gemini to access NanoBanana. You can access NanoBanana through many other methods. You don't need subscriptions. You could pay like a few pennies and it will generate or edit tons of images for you. When it comes to the free plans for all three of these AI chatpots, Gemini also has the largest gas tank on the free plan. You'll hit that usage limit a little bit less than you would compare to ChatchyPT and Claude. Now, speaking of pricing, like I've said throughout this video, all three of them have free plans and then all three of them have a paid plan that usually sits around $20 per month. The free plans are great and like I said earlier, they're not dumber or less powerful than the paid plans. It has to do with that usage limit. My recommendation would be to dive in with the free plans and then if you're constantly getting hit with usage limitations, you have two choices. First, you can just create free accounts with all three of the major chatpots and jump back and forth whenever you hit the limits. They're all honestly so similar. Sometimes I lose track of which one I'm using and for most things, switching around is totally fine. Your second option is of course upgrading to that paid plan so you don't hit usage limits anymore. But that doesn't my friends, a quick overview of the three biggest chatpots on planet earth right now. There are obviously other AI chatpots that we could talk about. I could sit here for hours and dive into each one in detail but I'd be repeating myself a lot because they're all extremely similar. And if you have another tool that I didn't mention that you like using, keep using that. Watch this course and you will see that the prompting skills and the creative way of thinking that we're gonna teach you will apply to all of them. It's gonna be a blast, but thank you for watching this video and I will see you in the next one. Now!
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+Intro to Artificial Intelligence
+/
+ChatGPT vs Claude vs Gemini
+Craft Better PROMPTS (#1 AI Skill)
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+Intro to Artificial Intelligence
+6
+            
+              Lessons
+1
+How AI Will Change Your Life
+2
+ChatGPT Overview
+ChatGPT vs Claude vs Gemini
+4
+Craft Better PROMPTS (#1 AI Skill)
+5
+(MUST WATCH) AI Tool vs. AI Marketplace [Prompt Edit]
+6
+Fal.Ai Overview
+Next Module
+Back
+Lesson 3 of 6
+Next
+Complete
+Great Job! Keep Going!
+Craft Better PROMPTS (#1 AI Skill)
+Next Lesson
+ChatGPT vs Claude vs Gemini
+Intro to Artificial Intelligence
+Try ChatGPT:
+https://chat.openai.com/
+Try Claude:
+https://claude.ai/new
+Try Gemini:
+gemini.google.com
+What about Grok?
+I see a lot of you asking in the comments so I figured it’s worth writing a quick section on grok as well. Like I said in the video, all of these tools are very similar, we could spend hours covering them all and it would be a lot of repetition.
+Grok is strongest for real-time information, trend spotting, and quick direct answers, especially when it comes to current events and conversations happening on X/twitter (since it is owned by the same company that owns x). It tends to be faster and more plugged into live discussions than tools focused on long-form work. However, it is usually weaker than ChatGPT and Claude when it comes to polished writing, detailed strategy, long-form content, and refined business workflows like scripts, sales copy, or course planning. Grok works well as a fast research and trend tool, but most people still prefer other platforms for deeper writing and structured creative work.
+Comments
+56
+Post Comment
+Muhammad Talieb
+June 17, 2026 11:26am
+NICE!!
+REPLY
+Deborah Nott
+June 16, 2026 12:35pm
+I rotate through Chat, Claude and Manus.I like to pit them against each other.  AI Wars! LOL
+REPLY
+Sariah Grace
+June 19, 2026  2:39pm
+LOL
+REPLY
+James Tolliver
+June  8, 2026  4:34pm
+I have had this course for quite some time now and i am starting to really focus on it! Thanks for making these for us all!
+REPLY
+Shelley Devine
+June  7, 2026  3:28pm
+I appreciate the Grok comparison to Chat GPT, Thanks!
+REPLY
+Terry Wong
+June  7, 2026 11:58am
+I am so excited to learn on prompting and also now have a very clear picture of the strengths and weaknesses of ChatGPT, Claude and Gemini. These names now do not sound foreign to me anymore. Thanks for the great explanation.
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

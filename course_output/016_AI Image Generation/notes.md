@@ -1,0 +1,91 @@
+# AI Image Generation
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157412658/posts/2186925229
+
+---
+
+## Full Video Transcript
+
+What's going on, creators? Anthony here and right now I'm going to walk you through how I built all the graphics for one of our landing pages on our site with artificial intelligence. Alright, so here we are on my computer and what you're seeing right now is the landing page for this course that you're in. So naturally this is a product that we sell and I put a lot of effort into the landing pages on our site to actually sell our products. That's how we keep the lights on. So this page is extremely important. Now there are so many different ways AI can help with this page. Okay, obviously we have a video that's going in here that's still being edited. But the content, right? What's actually written? You can use AI to help you with that. That's not the focus of today's video. We have modules in this course on writing content, which of course you can do. I wrote this myself with the help of AI, but this video is about graphics. Now this graphic here completely created with AI, little prompt, spitted out. I thought it looked freaking amazing. This graphic here is something that we had created in the past. We use them for all of our different courses. So although I did make this semi manually, right? By editing previous versions we had this logo, right? This picture within the kind of Mac here created with AI. This cover for this software box right here created with AI. This thumbnail here, Anthony Azirman created with AI. This image right created with AI. So hopefully you can see that if AI doesn't create the entire thing, it can still help you make the pieces that go together to form the main thing so much faster. I mean these used to take me like half a day. If not a full day sometimes to create because each little thing needs its own design element. But with AI got it done in like an hour, which is record time for me. Let's also talk about the color scheme. I asked AI for some different color schemes I could use for our site. It spit out a bunch of different options and I really like this dark blue, light blue combo. So that's what we've used as inspiration for everything. But this is really what I want to talk about. Every single little headline here on our site is going to have a graphic that visually shows the topics being spelled out, right? Each one of these, it would have taken me so long to create them all myself. Or we would have spent literally thousands of dollars on graphic designers to do it. So all of these will go through the page here. Obviously these are all AI images. All of this is AI images. It's crazy, crazy thumbnails. But then we get down to here again. Again, AI content planning. Perfect graphic for it. AI script writing. Perfect graphic for it. It's just, I mean, it's crazy how impressive this was. Now, super easy cheat code to create these graphics. Because I'd written the content for the page first, all I have to do is copy and paste this text into chat GPT and then ask it for ideas for a graphic. So you can see here, this is literally proof that I use chat GPT to make all of these graphics, you know, just asking it, revising it, getting through different versions. And that's what I'm going to show you right now. Now, I'm going to walk you through the process of doing this. The only kind of foundation that I want to set is you need to tell chat GPT about your project, right? In a second, you'll see me jump in head first and I'll be like, hey, can you create a graphic for this section? Okay. If you are just starting from scratch with chat GPT, think about it. It's going to be like, what section of what? I don't know what you're talking about. Okay. So what's really important is that, like, look at how long this thread is that I've been using for this AI course here. I started this thread by giving it URLs to old pages on our site that had converted really well. And I said, study these, learn from this page. What do they do? Well, what are things that we can improve? And that was kind of the beginning groundwork. Then I gave it scripts for video marketing that I had made. I just coached it a little bit on what we're actually doing. And throughout this process, naturally, chat GPT learned more and more about what I wanted to do. And at this point in the process, we'd also come up with a color scheme. We'd come up with a lot of the headlines, again, with the help of chat GPT. All of this to say, again, you don't need to spend hours training chat GPT on whatever product you're selling, but you do want to give it context. Okay. Let it know what you're doing, what you're trying to accomplish, give it a URL, give it an example page that it can analyze, whatever it may be. But once you've done that, now it's as simple as going back to where we were, right? Copying some text from your page, going to chat GPT and say, can you come up with a graphic idea for this section? Paste it and hit enter. Sometimes you get into what I call decision fatigue when you're building out marketing, when you're running a business doing anything, right? You have to make all these decisions that can get hard. What I really like to use AI for is to help me overcome that and give me ideas. Now, I'm not even going to read this, okay? This is part of the process. I'm not even going to read this. I'm not going to give feedback. I'm not going to change this prompt. I'm just going to give chat GPT the go ahead and say, yes, please create this. Okay? And I mean, within seconds, this is already really impressive. Like no feedback at all, right? It came up with this prompt idea by itself. And why I like this is chat GPT is basically writing instructions for itself here. It needs details to do a good job and it can create the details by itself. What you could do is read through these and say, yes, I like this, but instead do this, I've got this and that, right? Generally, I find chat GPT is so good. I like to just kind of let it do its thing. And then from here, we can modify it. Okay? So like the previous trainings in this course, if I want to make changes to this graphic, I could explain it here. I could also click on the image, right? And I could use in-painting and then describe what I want to be changed. But for here, it's literally so good. I don't have that many changes. I'm just going to tell it to remove this microphone icon. I think it kind of throws off the balance of the image here. So I'll say this is great because I want to let chat GPT know that I appreciate its efforts. But can you remove the blue mic, the phone on the left? So the graphic is a bit more symmetrical. Okay. So chat GPT didn't quite get my instructions here. And that's probably because I was a little vague. So why don't we just click on it here? And I will just say, we'll select it more specifically. Can you remove the microphone and stretch out the audio waveform to take up the entire space, making it similar in size to the good wave form on the right? This will help the entire image feel more balanced and symmetrical overall. I don't know how to spell. So we will just update those. And boom, let's see if that gives us what we want. Okay. So we are on the right track here. We just kind of lost the redness here. So we will add in the wave form on the left. And you make it red and keep the red X mark under. Neat it indicating that it is bad audio. And okay, here we are now. I think this is much better and simpler. We've just got a very clear graphic showing bad audio to good audio on the right. This is blue now, but honestly, I don't mind that. And if I wanted to, I could just have a prompt to turn that back to green. But really from there, we would just download it. You could throw it on your site or you could throw it into something like Photoshop or Canva to crop it, resize it, anything like that. And that's exactly the process I took to create all of the kind of like AI icon graphics that you see on the site. All of these. I would just take the section, copy the actual marketing content, put it into chat. I would just go from there, create it, make modifications. And it helped me create this site so much faster. Now you could obviously take this to the moon and back. There's unlimited potential, but I wanted to make sure you saw just how capable it is in the process that I like to use it with copying and pasting that content. So thanks for watching and I will see you in the next one.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+AI Image Generation
+/
+ChatGPT: Ai Website Graphics
+How to upscale your images with AI
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+AI Image Generation
+8
+            
+              Lessons
+1
+ChatGPT Image Generation
+2
+Nano Banana Image Generation
+3
+Grok Image Generation
+4
+Photoshop AI Tools
+5
+Ideogram: Create Logos & Graphics
+6
+ChatGPT: AI Image Ads
+ChatGPT: Ai Website Graphics
+8
+How to upscale your images with AI
+Next Module
+Back
+Lesson 7 of 8
+Next
+Mark As Complete
+Great Job! Keep Going!
+How to upscale your images with AI
+Next Lesson
+ChatGPT: Ai Website Graphics
+AI Image Generation
+Comments
+144
+Post Comment
+Gbola Ola
+June  9, 2026 11:39am
+Thanks. That was useful.
+REPLY
+Robert Sudduth
+June  7, 2026 11:00am
+Great module. Thank you.
+REPLY
+Ike Bakers
+April 17, 2026  4:15pm
+Awesome tips, many thanks.
+REPLY
+Eric Preston
+April 16, 2026  9:57pm
+Did this course that I paid $98 for used to be $75?! (smile)
+REPLY
+Suzanne Hodson
+March 30, 2026  3:31am
+I've found chatGPT slows down a lot if my chat gets too long. I've had to have it give me a summary to take over and paste into another chat.
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase

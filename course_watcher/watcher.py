@@ -22,6 +22,8 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+YT_DLP_CMD = [sys.executable, "-m", "yt_dlp"]
+
 BASE_URL = "https://www.contentcreator.com"
 COURSE_SLUG = "ai-creator-course"
 COURSE_ROOT = f"{BASE_URL}/products/{COURSE_SLUG}"
@@ -101,29 +103,27 @@ class CourseWatcher:
     # ── auth ────────────────────────────────────────────────────────────────
 
     def login(self):
-        print(f"[*] Logging in as {self.email} …")
-        r = self.session.get(f"{BASE_URL}/sign_in")
+        print(f"[*] Logging in as {self.email} ...")
+        r = self.session.get(f"{BASE_URL}/login")
         r.raise_for_status()
 
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # Rails CSRF token
-        csrf = (
-            (soup.find("meta", {"name": "csrf-token"}) or {}).get("content")
-            or (soup.find("input", {"name": "authenticity_token"}) or {}).get("value")
-        )
+        # Kajabi CSRF token
+        csrf_meta = soup.find("meta", {"name": "csrf-token"})
+        csrf_input = soup.find("input", {"name": "authenticity_token"})
+        csrf = (csrf_meta["content"] if csrf_meta else None) or (csrf_input["value"] if csrf_input else None)
         if not csrf:
             raise RuntimeError("Cannot find CSRF token on login page")
 
         payload = {
             "authenticity_token": csrf,
-            "user[email]": self.email,
-            "user[password]": self.password,
-            "commit": "Sign in",
+            "member[email]": self.email,
+            "member[password]": self.password,
         }
-        r2 = self.session.post(f"{BASE_URL}/sign_in", data=payload, allow_redirects=True)
+        r2 = self.session.post(f"{BASE_URL}/login", data=payload, allow_redirects=True)
 
-        if "sign_in" in r2.url or "login" in r2.url.lower():
+        if "/login" in r2.url.lower():
             # Check for error message
             soup2 = BeautifulSoup(r2.text, "html.parser")
             err = soup2.find(class_=re.compile(r"alert|error|flash", re.I))
@@ -260,8 +260,8 @@ class CourseWatcher:
         ]
         for url in urls:
             result = subprocess.run(
-                [
-                    "yt-dlp", "--no-warnings", "-q",
+                YT_DLP_CMD + [
+                    "--no-warnings", "-q",
                     "--add-header", f"Cookie: {self._cookie_header()}",
                     "--add-header", f"Referer: {BASE_URL}/",
                     "-o", str(dest),
@@ -280,8 +280,8 @@ class CourseWatcher:
     def download_video(self, vtype: str, vref: str, dest: Path) -> Path | None:
         """Generic download via yt-dlp."""
         result = subprocess.run(
-            [
-                "yt-dlp", "--no-warnings", "-q",
+            YT_DLP_CMD + [
+                "--no-warnings", "-q",
                 "--add-header", f"Cookie: {self._cookie_header()}",
                 "-o", str(dest),
                 vref,
@@ -300,9 +300,9 @@ class CourseWatcher:
     def transcribe(self, video_path: Path) -> str:
         if self._whisper is None:
             import whisper
-            print(f"  [*] Loading Whisper '{self.whisper_model_size}' model …")
+            print(f"  [*] Loading Whisper '{self.whisper_model_size}' model ...")
             self._whisper = whisper.load_model(self.whisper_model_size)
-        print(f"  [*] Transcribing {video_path.name} …")
+        print(f"  [*] Transcribing {video_path.name} ...")
         result = self._whisper.transcribe(str(video_path), fp16=False)
         return result["text"].strip()
 
@@ -320,7 +320,7 @@ class CourseWatcher:
     # ── per-lesson pipeline ──────────────────────────────────────────────────
 
     def process_lesson(self, url: str, idx: int) -> dict:
-        print(f"\n─── Lesson {idx}: {url}")
+        print(f"\n--- Lesson {idx}: {url}")
         lesson = self.fetch_lesson(url)
         title = lesson["title"] or f"lesson_{idx}"
         print(f"    Title: {title}")
@@ -393,7 +393,7 @@ class CourseWatcher:
             f.write(f"*{len(results)} lessons processed*\n\n---\n\n")
             for r in results:
                 f.write(f"\n\n{r['notes']}\n\n---\n")
-        print(f"\n[+] Done! Master notes → {master}")
+        print(f"\n[+] Done! Master notes -> {master}")
 
         return results
 

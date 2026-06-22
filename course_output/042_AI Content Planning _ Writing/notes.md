@@ -1,0 +1,91 @@
+# AI Content Planning & Writing
+
+**URL:** https://www.contentcreator.com/products/ai-creator-course/categories/2157469703/posts/2186925451
+
+---
+
+## Full Video Transcript
+
+What's going on creators? Anthony here in another quick training, but again, very useful. It's using AI to repurpose content that you've already created. So just like the last video, we have this script here, which is our camera buying guide for beginner YouTubers. I put all this effort in making this video. There's a lot of extra use that I can get out of this. So to start, we are just going to take this entire script. Now we will copy it. Now we can go over to chatch.com and just say, can you please analyze this YouTube script and repurpose it into a blog post for my website? And then we will just hit shift enter enter to go down two lines, command V and hit enter again. And just like that, you can see right in front of our eyes, it's actually using the canvas feature, which is a feature of chat GPT plus. If you don't have chat GPT plus, it'll just start doing this in the actual chat itself. But it's reformating everything into really nice sections, kind of breaking down the very detailed, wordy script into something that's a bit more digestible for the average viewer. It's including the price point, it's making titles. I mean, this is just really, really helpful. It's also kind of removing some of the personality from it, right? When you watch a video, you want the personality to shine through, and I write a lot of my personality into our content. But I like here how it's kind of removing that, taking out some of the jokes and just making it more suitable for an internet audience who isn't a subscriber of our YouTube channel, but who might just be clicking on a blog based on something they just searched. Now, it's really cool. I mean, I'm just gonna keep going while this is typing out this blog post, is writing blog posts about your YouTube videos is a way to get more YouTube views. Because let's say somebody's searching on Google, they're not on YouTube, right? And they're searching for the best beginner cameras for YouTube. If we have a blog post on our site, right? That will show up on Google, they can click on it, and then on that page, we can have the video at the top. That way, they have the option to watch a really great detailed video and they have the option to read through the content. This is a really great way, especially if you make search-based content, right? Like best beginner camera for YouTube, you can use this to get more views on your content. And YouTube also really likes content that gets views on embedded websites. YouTube likes knowing that its video platform is being used all across the web. So if you can generate traffic from blogs to your videos, they will like you and send you more traffic on YouTube as well. So this is really cool. And as always, you could modify this, right? You could say, add in emojis throughout the blog. Right, if that had something to do with your style, you could say, you know, add more visual analogies, whatever you want, right? You could tell Chats MPT to make those changes. But that's an example of a blog. We could also say, great, now can you repurpose it for an email news letter, really focus on making it much shorter? And just like that, we've already got a nice engaging subject line. It's, you know, got the personalization written in like the first name of who's ever reading it. And just like that, we have a very nice and easy newsletter that we could send out to our audience as well. We could also kind of fire back and say, this is great, but can you include a call to action at the end to click and watch the full YouTube video? And it's just gonna rewrite it with a nice, you know, engaging call to action at the end, which will drive more traffic to your YouTube video. Yeah, so you can see here, not sure which one is right for you, watch my full breakdown here. Absolutely love that. Now another really cool way we can repurpose our content is to ask Chatchipity to analyze the script and pluck out a few short form video ideas that we could then create and post on Instagram, TikTok, Facebook, all those things. So we'll, you know, give it the prompt. Great. Can you please analyze the script again and pull out? Three to five engaging short form video ideas that I could create and post on social media. I love that. So without even being told, it's giving us a hook, kind of giving us an idea for what the meat of that video should be and then it has a call to action built in at the end that says like, hey, if you want a full guide, watch my YouTube video, right? Which is again, another way to drive traffic to your long form content. I love it. Best YouTube camera under $1,000. It pulled out from my script that I do think the best one is the Sony ZVE 10 Mark II, which is awesome. And then again, call to action for the YouTube video. Really great, right? So again, we are just crushing our content pipeline through the use of AI repurposing one piece across so many different channels. So make sure you do not forget this step when you're creating your content. Other than that, thanks so much for watching and I'll see you in the next one.
+
+---
+
+## Lesson Page Content
+
+Search
+My Library
+Settings
+Logout
+AI Creator Course
+/
+Modules
+/
+AI Content Planning & Writing
+/
+AI Content Repurposing
+How to Write Profitable Ads With AI
+Will Begin In
+20
+Seconds
+Play Now
+Cancel
+AI Content Planning & Writing
+8
+            
+              Lessons
+1
+Train AI to Write Like You
+2
+AI Content Ideas & Titles
+3
+Intro to AI Content Scriptwriting
+4
+ChatGPT Canvas Feature (great for scriptwriting)
+5
+AI Content Research & Writing
+6
+Using AI For Content Feedback
+AI Content Repurposing
+8
+How to Write Profitable Ads With AI
+Next Module
+Back
+Lesson 7 of 8
+Next
+Mark As Complete
+Great Job! Keep Going!
+How to Write Profitable Ads With AI
+Next Lesson
+AI Content Repurposing
+AI Content Planning & Writing
+Comments
+30
+Post Comment
+Nathan Mellor
+May 26, 2026  2:34am
+I wonder if it can repurpose a chapter of a novel into an exciting YouTube video.
+REPLY
+David Naughton
+February  1, 2026  6:19pm
+Great idea!
+REPLY
+Jai Bentley Gaines
+January 23, 2026  5:28am
+Repetition, gets the message in there...
+REPLY
+Lila Cabot
+January 15, 2026  3:55am
+More great tools
+REPLY
+tania costa
+January 12, 2026  9:32pm
+how do you get the script from a YT video- do you play the video and then use copilot or something to get the words from the script?  I don't use a script with my content as i know it like the back of my hand
+REPLY
+Show More
+Upgrade to unlock
+Upgrade now to instantly unlock this content and all other locked content.
+In this course you will get:
+Value Prop 1
+Value Prop 2
+Value Prop 3
+Purchase
